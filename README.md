@@ -2,3 +2,6 @@
 - Bread
 - Eggs
 - Coffee
+- Juice
+- Chips
+- Turkey
